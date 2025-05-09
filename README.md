@@ -1,1 +1,1 @@
-Nuclear decay fitting script
+Script to fit nuclear decay data
